@@ -10,3 +10,4 @@ while user != word:
     elif user < word:
         print("Too Low")
 print("correct")
+print("helloo, dkdkdk")
